@@ -185,7 +185,8 @@ Some features that can be added in future versions:
 
 ## 👨‍💻 Author
 
-**Your Name**
+YESHWANTHI D
+Linkedin post link:https://www.linkedin.com/posts/yeshu-dk-12607241a_codealpha-python-pythonprogramming-ugcPost-7476610888938991616-L_gG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGpwpS4B_byqqwn8xdjxSZ7BZlqUHLmbZa8
 
 Python Programming Intern
 
