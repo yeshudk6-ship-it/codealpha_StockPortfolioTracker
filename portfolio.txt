@@ -1,0 +1,6 @@
+STOCK PORTFOLIO REPORT
+========================================
+AAPL | Qty: 4 | Price: $180 | Total: $720
+GOOGL | Qty: 2 | Price: $170 | Total: $340
+----------------------------------------
+Total Investment = $1060
